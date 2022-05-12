@@ -11,7 +11,7 @@ public class HelloWorldController {
 
     public String HelloMessage(@PathVariable String name){
 
-        return "Hello woelras fafaf  ghafagadhhgggg hhhsdgsdgsdgsdgsfffaf" + name;
+        return "Hello world from hello world controller" + name;
 
     }
 
